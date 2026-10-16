@@ -1,11 +1,12 @@
 # Mayonaise
 
-Some history
+Basic mayonnaise recipe
 
 ## Ingredients
 
-- Ingredient 1 
-- Ingredient 2
+- 2 egg yolks
+- 250ml oil
+- 2 tsp lemon juice
 
 ## Instructions
 
